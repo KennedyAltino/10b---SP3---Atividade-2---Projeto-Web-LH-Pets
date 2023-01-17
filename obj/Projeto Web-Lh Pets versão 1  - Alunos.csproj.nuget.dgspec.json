@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kenne\\OneDrive\\Área de Trabalho\\Projeto Web-Lh Pets versão 1\\Projeto_Web_Lh_Pets_versão_1____Alunos\\Projeto Web-Lh Pets versão 1  - Alunos.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kenne\\OneDrive\\Área de Trabalho\\Projeto Web-Lh Pets versão 1\\Projeto_Web_Lh_Pets_versão_1____Alunos\\Projeto Web-Lh Pets versão 1  - Alunos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kenne\\OneDrive\\Área de Trabalho\\Projeto Web-Lh Pets versão 1\\Projeto_Web_Lh_Pets_versão_1____Alunos\\Projeto Web-Lh Pets versão 1  - Alunos.csproj",
+        "projectName": "Projeto Web-Lh Pets versão 1  - Alunos",
+        "projectPath": "C:\\Users\\kenne\\OneDrive\\Área de Trabalho\\Projeto Web-Lh Pets versão 1\\Projeto_Web_Lh_Pets_versão_1____Alunos\\Projeto Web-Lh Pets versão 1  - Alunos.csproj",
+        "packagesPath": "C:\\Users\\kenne\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kenne\\OneDrive\\Área de Trabalho\\Projeto Web-Lh Pets versão 1\\Projeto_Web_Lh_Pets_versão_1____Alunos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kenne\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

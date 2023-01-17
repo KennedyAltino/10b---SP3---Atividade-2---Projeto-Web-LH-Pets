@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "7xKHv9EthP4ZXHDALu5ns9WBJsfZjW3gUMPSniWC+Qw=",
+  "Source": "Projeto Web-Lh Pets versão 1  - Alunos",
+  "BasePath": "_content/Projeto Web-Lh Pets versão 1  - Alunos",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Projeto Web-Lh Pets versão 1  - Alunos\\wwwroot",
+      "Source": "Projeto Web-Lh Pets versão 1  - Alunos",
+      "ContentRoot": "C:\\Users\\kenne\\OneDrive\\Área de Trabalho\\Projeto Web-Lh Pets versão 1\\Projeto_Web_Lh_Pets_versão_1____Alunos\\wwwroot\\",
+      "BasePath": "_content/Projeto Web-Lh Pets versão 1  - Alunos",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\kenne\\OneDrive\\Área de Trabalho\\Projeto Web-Lh Pets versão 1\\Projeto_Web_Lh_Pets_versão_1____Alunos\\wwwroot\\index.html",
+      "SourceId": "Projeto Web-Lh Pets versão 1  - Alunos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kenne\\OneDrive\\Área de Trabalho\\Projeto Web-Lh Pets versão 1\\Projeto_Web_Lh_Pets_versão_1____Alunos\\wwwroot\\",
+      "BasePath": "_content/Projeto Web-Lh Pets versão 1  - Alunos",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
